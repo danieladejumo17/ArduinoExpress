@@ -1,0 +1,21 @@
+{
+  "name": "ArduinoExpress",
+  "version": "1.0.0",
+  "description": "An HTTP Web Framework library similar to the NodeJS Express framework",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danieladejumo17/ArduinoExpress"
+  },
+  "authors": [
+    {
+      "name": "Daniel Adejumo",
+      "email": "adejumodaniel17@gmail.com",
+      "url": "https://github.com/danieladejumo17",
+      "maintainer": true
+    }
+  ],
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/janelia-arduino/Vector",
+  "frameworks": "*",
+  "platforms": "*"
+}
