@@ -10,6 +10,8 @@
   - Author :: Daniel Adejumo
   - Email :: adejumodaniel17@gmail.com
 
+This is a lightweight implementation of the popular Express web framework in C++ for MCU boards.
+
   A sequence container similar to the C++
   [[http://www.cplusplus.com/reference/vector/vector/][std::vector]], but
   instead of allocating memory dynamically, this container points to an
